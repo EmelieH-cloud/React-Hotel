@@ -1,0 +1,18 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Sunshine",
+      "location": "City A",
+      "reviews": ["Great place!", "Very clean."],
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "Mountain View Hotel",
+      "location": "City B",
+      "reviews": ["Amazing view!", "Comfortable beds."],
+      "availability": false
+    }
+  ]
+}
